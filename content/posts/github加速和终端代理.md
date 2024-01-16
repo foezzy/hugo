@@ -1,7 +1,7 @@
 ---
 title: github加速和终端代理
 date: 2019-10-09 10:16:24
-tags: 加速 代理
+tags: [加速,代理]
 ---
 
 ### github加速：

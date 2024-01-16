@@ -1,7 +1,7 @@
 ---
 title: gitignore总结
 date: 2020-01-16 11:45:22
-tags: gitignore
+tags: [gitignore]
 ---
 
 ##gitignore生效操作

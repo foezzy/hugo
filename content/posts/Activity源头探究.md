@@ -1,7 +1,7 @@
 ---
 title: Activity源头探究
 date: 2019-3-21 12:40:09
-tags: Activity源头
+tags: [Activity源头]
 ---
 ## 疑问
 

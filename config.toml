@@ -1,4 +1,4 @@
 baseURL = 'https://foezzy.github.io/'
 languageCode = 'en-us'
 title = 'Blog'
-theme = 'diary'
+theme = 'mini'

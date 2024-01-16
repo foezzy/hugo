@@ -1,7 +1,7 @@
 ---
 title: Android依赖相问题
 date: 2019-08-29 10:20:29
-tags: Android
+tags: [Android]
 ---
 
 # Android依赖第三方库引起一个报错

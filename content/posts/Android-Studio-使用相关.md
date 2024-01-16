@@ -1,7 +1,7 @@
 ---
 title: Android Studio 使用相关
 date: 2019-08-12 13:52:14
-tags: Android Studio
+tags: [Android Studio]
 ---
 
 ## 记录Android Studio使用过程中，配置的快捷键，插件相关的东西（Mac平台）

@@ -1,7 +1,7 @@
 ---
 title: clashX使用说明
 date: 2020-06-25 17:11:45
-tags: clashX
+tags: [clashX]
 ---
 ## 前言
 

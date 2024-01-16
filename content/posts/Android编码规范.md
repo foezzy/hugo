@@ -1,7 +1,7 @@
 ---
 title: Android编码规范
 date: 2019-06-14 10:07:09
-tags: 规范
+tags: [规范]
 ---
 
 ### Android编码规范

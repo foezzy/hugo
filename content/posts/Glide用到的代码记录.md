@@ -1,7 +1,7 @@
 ---
 title: Glide用到的代码记录
 date: 2020-05-12 10:32:00
-tags: Glide
+tags: [Glide]
 ---
 ### 同步加载
 ``` java
