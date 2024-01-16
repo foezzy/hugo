@@ -19,7 +19,7 @@ if [ $# -eq 1 ]
 fi
 git commit -m "$msg"
 
-setproxy
+# setproxy
 
 # Push source and build repos.
 git push origin main
