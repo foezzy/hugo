@@ -37,6 +37,6 @@ if [ $# -eq 1 ]
 fi
 git commit -m "$msg"
 
-setproxy
+# setproxy
 
 git push origin main
